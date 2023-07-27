@@ -8,4 +8,4 @@ This can in turn reduce the consumption of electrical energy by the plant.
 
 
 ## Acknowledgement
-Thanks to [AIEngineering] (https://github.com/priyadarshi0007/TimeSeries-AIEngineering/blob/master/Time_Series_Using_Prophet.ipynb) for making their work open-sourced. 
+Thanks to [AIEngineering](https://github.com/priyadarshi0007/TimeSeries-AIEngineering/blob/master/Time_Series_Using_Prophet.ipynb) for making their work open-sourced. 
